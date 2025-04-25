@@ -259,7 +259,7 @@
         window.zomato = {};
         window.zomato.fbAppId = 288523881080;
         window.zomato.googleAppId = "442739719837.apps.googleusercontent.com";
-        window.zomato.googleMapAPIKey = "AIzaSyA5sLVzE14pbsnzkkCNQxq8Z2gzRUhf6tY";
+        window.zomato.googleMapAPIKey = "GoogleMapAPIKey";
         </script>
         <script id="__LOADABLE_REQUIRED_CHUNKS__" type="application/json">[2322,7472,5357,7836,3773,7033,8794,1666,7284,1751,5329,276,8282,8657,7602,5367,7079,7415,9339,4472,9056,9247,359,1866,4260,7721,1301,7578,999,3703,5519,6464]</script><script id="__LOADABLE_REQUIRED_CHUNKS___ext" type="application/json">{"namedChunks":["StructuredData","pages-common-Navbar","pages-Search","layoutEntries-searchDesktopIndex","layoutEntries-uniSearchDesContainer","layoutEntries-LocationTooltip","RestaurantCardV2","Footers","ZomatoFooter","zwebmolecules-dist-Login","PageBlocker"]}</script>
 <script async="" data-chunk="main" src="https://zwstatic.zomato.com/runtime-ac37aa9ccaaf50162aef.js"></script>
