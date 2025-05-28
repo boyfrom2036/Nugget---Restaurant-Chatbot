@@ -1,6 +1,6 @@
 # Nugget---Restaurant-Chatbot
 
-Project Summary
+# Project Summary
 This project implements a Retrieval-Augmented Generation (RAG) chatbot focused on answering user queries about restaurants in Roorkee, as part of the Zomato Gen AI Internship Assignment. The system is built through several key steps:
 
 Web Scraping:
